@@ -1,6 +1,6 @@
 eni = 3
 uzunligi = 5
 print(
-    'perimetr = ',2 * (uzunligi + eni),
-    '\nyuz = ', uzunligi * eni
+    f"perimetr = {(uzunligi + eni) * 2}\n" \
+    f"yuz = {eni * uzunligi}"
 )

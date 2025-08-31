@@ -1,2 +1,2 @@
 narx = 20000.0
-print(narx * ( 1 + (15/100) ) )
+print(narx + (narx * (15 / 100)))
